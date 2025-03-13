@@ -1,0 +1,11 @@
+# Игнорируем системные файлы macOS
+.DS_Store
+
+# Игнорируем пользовательские файлы Xcode
+xcuserdata/
+xcuserstate
+*.xcscmblueprint
+
+# Игнорируем зависимости CocoaPods (если используются)
+Pods/
+Podfile.lock
